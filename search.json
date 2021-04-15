@@ -6,7 +6,7 @@
     "date": "2020-04-08T00:00:00.000Z",
     "dateString": "8 April 2020",
     "templateContent": " final design iterationd from alpha stage git site development # screenshots homepage events results life teacher steps become stories hot apply funding eligibility mailing list confirm",
-    "url": "/get-into-teaching-design-history/alpha-designs/"
+    "url": "/alpha-designs/"
   },  {
     "data": {
       "title": "Beta launch",
@@ -15,7 +15,7 @@
     "date": "2020-10-22T00:00:00.000Z",
     "dateString": "22 October 2020",
     "templateContent": " # screenshots homepage funding your training steps become teacher pathway into teaching international candidates returning career story index page individual salaries benefits events event online signup personal details phone number further completed train teach school uni mailing list subject postcode",
-    "url": "/get-into-teaching-design-history/beta-launch/"
+    "url": "/beta-launch/"
   },  {
     "data": {
       "title": "Week one updates",
@@ -24,7 +24,7 @@
     "date": "2020-11-09T00:00:00.000Z",
     "dateString": "9 November 2020",
     "templateContent": " following analysis first week beta made changes: # feedback banner position increase visibiliy changed this into fixed element that sits bottom viewport homepage feature box ordering switched order boxxes test effect engagment each item pull future events there are none current month when user landed page toward end showing leading us belive cause low conversion been then ones from months add search sub pages help find evetns brought landing event type pagination returned all upcoming one huge scrolls added break results reduce length screenshots",
-    "url": "/get-into-teaching-design-history/week-one-updates/"
+    "url": "/week-one-updates/"
   },  {
     "data": {
       "title": "Events section",
@@ -33,7 +33,7 @@
     "date": "2020-11-25T00:00:00.000Z",
     "dateString": "25 November 2020",
     "templateContent": " make events section easier users updated ui number fo fronts: # landing category page: added snippets prior search box explain each evetn type help devide how some have moved online colours weve limited just two purple highlight ttt blue all others changes boxes are displayed remove snippet oftern repetition event title individual page boxed information from sidebar main content column analytics indicate wil engaged with more this position ctas now top bottom who skim digest can both find screenshots screenshot evetns",
-    "url": "/get-into-teaching-design-history/events-section/"
+    "url": "/events-section/"
   },  {
     "data": {
       "title": "Hero section",
@@ -42,7 +42,7 @@
     "date": "2020-11-25T00:00:00.000Z",
     "dateString": "25 November 2020",
     "templateContent": " following user feedback that page titles could clearer changed style used both homepage content pages # screenshots hero screenshot",
-    "url": "/get-into-teaching-design-history/hero-section/"
+    "url": "/hero-section/"
   },  {
     "data": {
       "title": "Call to actions and highlight page",
@@ -51,7 +51,7 @@
     "date": "2020-12-08T00:00:00.000Z",
     "dateString": "8 December 2020",
     "templateContent": " # calls action added flexible call component that can have arious states: generic title snippit link icon select from list icons including arrow person calendar image highlight current page indecator what top nav screenshots screenshot with",
-    "url": "/get-into-teaching-design-history/call-to-actions-and-highlight-page/"
+    "url": "/call-to-actions-and-highlight-page/"
   },  {
     "data": {
       "title": "Child page titles",
@@ -60,7 +60,7 @@
     "date": "2021-01-06T00:00:00.000Z",
     "dateString": "6 January 2021",
     "templateContent": " change child page titles more like homepage title step with broader branding # screenshots",
-    "url": "/get-into-teaching-design-history/child-page-titles/"
+    "url": "/child-page-titles/"
   },  {
     "data": {
       "title": "Ways to train page",
@@ -69,7 +69,7 @@
     "date": "2021-01-06T00:00:00.000Z",
     "dateString": "6 January 2021",
     "templateContent": " updated ways train page feature accordion content with cta per section also added new sidebar module # screenshots",
-    "url": "/get-into-teaching-design-history/ways-to-train-page/"
+    "url": "/ways-to-train-page/"
   },  {
     "data": {
       "title": "Homepage redesign",
@@ -78,7 +78,7 @@
     "date": "2021-02-18T00:00:00.000Z",
     "dateString": "18 February 2021",
     "templateContent": " after analysis showing lack engagment lower compinents feedback fro musers about too many colours decided streamline homepage with emphasis 3 routes contact steps become teacher replaced threee cta boxes give users clear picture whare they can go site these links will tweaked following over next few weeks directory may also help us decide how re organise navigation based what being engaged # screenshots new screenshot",
-    "url": "/get-into-teaching-design-history/homepage-redesign/"
+    "url": "/homepage-redesign/"
   },  {
     "data": {
       "title": "Dfe logo in header",
@@ -87,7 +87,7 @@
     "date": "2021-03-31T00:00:00.000Z",
     "dateString": "31 March 2021",
     "templateContent": " added dfe logo navbar area next git this done response feedback about weather official site # screenshots header",
-    "url": "/get-into-teaching-design-history/dfe-logo-in-header/"
+    "url": "/dfe-logo-in-header/"
   },  {
     "data": {
       "title": "Site search",
@@ -96,7 +96,7 @@
     "date": "2021-03-31T00:00:00.000Z",
     "dateString": "31 March 2021",
     "templateContent": " added site search similar function gov design system when searching with js enabled they are offered potential keyword matches dropdown user searches form posted teken results page # screenshots closed screenshot open active result",
-    "url": "/get-into-teaching-design-history/site-search/"
+    "url": "/site-search/"
   },  {
     "data": {
       "title": "Steps page redesign",
@@ -105,5 +105,5 @@
     "date": "2021-03-31T00:00:00.000Z",
     "dateString": "31 March 2021",
     "templateContent": " redesign this page link each step complete journey updated collapsable content also allows snippet shown when closed allowing easier skim # screenshots steps screenshot",
-    "url": "/get-into-teaching-design-history/steps-page-redesign/"
+    "url": "/steps-page-redesign/"
   }]
