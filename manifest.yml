@@ -1,0 +1,7 @@
+---
+applications:
+  - name: get-into-teaching-design-history
+    memory: 64M
+    buildpacks:
+      - nodejs_buildpack
+    root: public
