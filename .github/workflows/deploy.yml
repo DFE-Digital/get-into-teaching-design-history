@@ -1,0 +1,45 @@
+---
+name: Deploy to GOV.UK PaaS
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  turnstyle:
+    name: Wait for previous deploys to finish
+    runs-on: ubuntu-20.04
+    timeout-minutes: 20
+    steps:
+      - uses: softprops/turnstyle@v1
+        name: Check workflow concurrency
+        with:
+          poll-interval-seconds: 20
+          same-branch-only: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  deploy:
+    name: Deploy to GOV.UK PaaS
+    needs: turnstyle
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: Azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - uses: Azure/get-keyvault-secrets@v1
+        id: azSecret
+        with:
+          keyvault: ${{ secrets.KEY_VAULT}}
+          secrets: 'PAAS-USERNAME, PAAS-PASSWORD'
+
+      - uses: DFE-Digital/github-actions/setup-cf-cli@master
+        with:
+          CF_USERNAME: ${{ steps.azSecret.outputs.PAAS-USERNAME }}
+          CF_PASSWORD: ${{ steps.azSecret.outputs.PAAS-PASSWORD }}
+          CF_SPACE_NAME: get-into-teaching
+      - name: Push application
+        run: cf push
