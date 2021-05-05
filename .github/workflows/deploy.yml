@@ -25,10 +25,21 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
+
+      - uses: Azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - uses: Azure/get-keyvault-secrets@v1
+        id: azSecret
+        with:
+          keyvault: ${{ secrets.KEY_VAULT}}
+          secrets: 'PAAS-USERNAME, PAAS-PASSWORD'
+
       - uses: DFE-Digital/github-actions/setup-cf-cli@master
         with:
-          CF_USERNAME: ${{ secrets.CF_USERNAME }}
-          CF_PASSWORD: ${{ secrets.CF_PASSWORD }}
+          CF_USERNAME: ${{ steps.azSecret.outputs.PAAS-USERNAME }}
+          CF_PASSWORD: ${{ steps.azSecret.outputs.PAAS-PASSWORD }}
           CF_SPACE_NAME: get-into-teaching
       - name: Push application
         run: cf push
