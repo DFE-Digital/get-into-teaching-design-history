@@ -41,5 +41,9 @@ jobs:
           CF_USERNAME: ${{ steps.azSecret.outputs.PAAS-USERNAME }}
           CF_PASSWORD: ${{ steps.azSecret.outputs.PAAS-PASSWORD }}
           CF_SPACE_NAME: get-into-teaching
-      - name: Push application
+
+      - name: Build site
+        run: npm run-script build
+
+      - name: Push site
         run: cf push
