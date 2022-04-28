@@ -30,16 +30,17 @@ jobs:
         with:
           creds: ${{ secrets.AZURE_CREDENTIALS }}
 
-      - uses: Azure/get-keyvault-secrets@v1
-        id: azSecret
+      - uses: DfE-Digital/keyvault-yaml-secret@v1
+        id:  keyvault-yaml-secret
         with:
-          keyvault: ${{ secrets.KEY_VAULT}}
-          secrets: 'PAAS-USERNAME, PAAS-PASSWORD'
+          keyvault: s146d01-kv
+          secret: INFRA-KEYS
+          key: PAAS-USERNAME,PAAS-PASSWORD
 
       - uses: DFE-Digital/github-actions/setup-cf-cli@master
         with:
-          CF_USERNAME: ${{ steps.azSecret.outputs.PAAS-USERNAME }}
-          CF_PASSWORD: ${{ steps.azSecret.outputs.PAAS-PASSWORD }}
+          CF_USERNAME: ${{ steps.keyvault-yaml-secret.outputs.PAAS-USERNAME }}
+          CF_PASSWORD: ${{ steps.keyvault-yaml-secret.outputs.PAAS-PASSWORD }}
           CF_SPACE_NAME: get-into-teaching
 
       - name: Install dependencies
