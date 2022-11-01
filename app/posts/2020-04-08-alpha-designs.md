@@ -4,7 +4,7 @@ description:
 date: 2020-04-08
 ---
 
-Final design iterationd from the Alpha stage of the GIT site development. 
+Final design iterations from the Alpha stage of the GIT site development. 
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

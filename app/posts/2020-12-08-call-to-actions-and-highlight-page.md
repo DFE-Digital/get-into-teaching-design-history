@@ -6,15 +6,15 @@ date: 2020-12-08
 
 ## Calls to action
 
-We added a flexible call to action component that can have arious states:
+We added a flexible call to action component that can have various states:
 
-- **Generic** - Has title, snippit and link
+- **Generic** - Has title, snippet and link
 - **icon** - As generic, but can select from list of icons, including arrow, person and calendar
 - **image** - As generic but has an image. 
 
 ## Highlight current page
 
-Added indecator on what the current page is in top nav.
+Added indicator on what the current page is in top nav.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({

@@ -4,15 +4,15 @@ description:
 date: 2020-11-25
 ---
 
-To make the events section easier for users, we updated the the ui on a number fo fronts:
+To make the events section easier for users, we updated the the ui on a number of fronts:
 
 ## Landing & Category page:
 
-- Added snippets prior to search box to explain each evetn type to help users devide how to search.
+- Added snippets prior to search box to explain each event type to help users decide how to search.
 - Added "Some events have moved online" box. 
-- Updated colours. Weve limited colours to just two, purple to highlight TTT events and blue for all others. 
+- Updated colours. We've limited colours to just two, purple to highlight TTT events and blue for all others. 
 - UI changes to how boxes are displayed.
-- Remove snippet and is oftern repetition of event title.
+- Remove snippet and is often repetition of event title.
 
 ## individual Page
 
