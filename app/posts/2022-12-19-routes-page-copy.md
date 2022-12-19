@@ -10,7 +10,7 @@ Our old content emphasised the different routes — training with a school, with
 
 We redesigned the content to match up better with the way courses are broken down on Find and in the way that teacher training advisers describe them to candidates.
 
-On Find, candidates can filter courses depending on if they’re salaried and by which qualifications they can get. We also know that this is how teacher training advisers explain the differences between courses to candidates. So we changed our content to match this.
+On Find, candidates can filter courses by salaried and qualification. We also know that this is how teacher training advisers explain the differences between courses to candidates. So we changed our content to match this.
 
 We know from user research that candidates do not understand what qualified teacher status (QTS) is and the common misconception is that you need a PGCE to teach. According to teacher training advisers, many candidates accidentally apply for courses that only give them PGCE and not QTS.
 
