@@ -6,7 +6,7 @@ date: 2022-12-19
 
 The way we used to break down teacher training on our ‘Train to be a teacher if you have a degree’ page did not match up with what candidates would then see on Find postgraduate teacher training (Find).
 
-Our old content emphasised the different routes — training with a school, with a university, through an apprenticeship, etc. But we know from user research that candidates get confused with all these different routes when the actual content of teacher training does not vary much between them.
+Our old content emphasised the different routes — training with a school, with a university, through an apprenticeship, etc. But we know from user research that candidates get confused with all the different routes when the actual content of teacher training does not vary much between them.
 
 We redesigned the content to match up better with the way courses are broken down on Find and in the way that teacher training advisers describe them to candidates.
 
