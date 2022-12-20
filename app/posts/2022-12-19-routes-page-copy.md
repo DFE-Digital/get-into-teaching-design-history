@@ -21,9 +21,9 @@ Because of this, we wanted to put this important information at the top of the p
 {{ appScreenshots({
   items: [{
       text: "Old page content",
-      img: { src: "01-routes-page-copy-screenshot.jpeg" }
+      img: { src: "01-routes-page-copy-screenshot.png" }
     }, {
       text: "New page content",
-      img: { src: "02-routes-page-copy-screenshot.jpeg" }
+      img: { src: "02-routes-page-copy-screenshot.png" }
     }]
 }) }}
