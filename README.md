@@ -1,10 +1,8 @@
-# Design history for GOV.UK services
+# Design history for the Get Into Teaching service
 
-A place for you to document your GOV.UK service designs.
+A place for you to document the GIT service designs.
 
-<https://design-history.herokuapp.com>
-
-[Get Into Teaching design history](https://git-design-history.netlify.app/)
+<https://git-design-history.netlify.app>
 
 ## Purpose of this project
 
@@ -42,3 +40,4 @@ If you want to make changes to CSS and JavaScript, and watch for those changes, 
 ## Technical notes
 
 The design history uses the [GOV.UK Design System](https://design-system.service.gov.uk) and the [Eleventy](https://www.11ty.dev) static site generator.
+
