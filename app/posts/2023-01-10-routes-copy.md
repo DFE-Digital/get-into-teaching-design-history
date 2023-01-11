@@ -1,7 +1,7 @@
 ---
 title: Changing how we talk about routes into teacher training
 description: Changing our content around routes into teacher training to match better with Find postgraduate teacher training.
-date: 2022-01-10
+date: 2023-01-10
 ---
 
 The way we used to break down teacher training on our ‘Train to be a teacher if you have a degree’ page did not match up with what candidates would then see on Find postgraduate teacher training (Find).
@@ -21,9 +21,9 @@ Because of this, we wanted to put this important information at the top of the p
 {{ appScreenshots({
   items: [{
       text: "Old page content",
-      img: { src: "01-routes-page-copy-screenshot.jpeg" }
+      img: { src: "01-routes-copy-screenshot.png" }
     }, {
       text: "New page content",
-      img: { src: "02-routes-page-copy-screenshot.jpeg" }
+      img: { src: "02-routes-copy-screenshot.png" }
     }]
 }) }}
