@@ -1,7 +1,7 @@
 ---
 title: Homepage update
 description:
-date: 2023-12-05
+date: 2023-05-12
 ---
 
 We needed to push mailing list sign ups, so we made some tweaks to the homepage where we embedded the start of the sign up journey into the page, rather than a link in the main hero banner.
