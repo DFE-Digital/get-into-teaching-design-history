@@ -6,7 +6,7 @@ date: 2023-06-21
 
 ## User insight
 
-Our 'How to become a teacher page' (previously 'Steps to become a teacher') has information around the steps that you need to take to apply for teacher training.
+Our [How to become a teacher page](https://getintoteaching.education.gov.uk/steps-to-become-a-teacher) (previously Steps to become a teacher) has information around the steps that you need to take to apply for teacher training.
 
 Our user research found that users wanted information beyond their application, and expected to see content on their teacher training year, applying for teaching jobs, and what happens when in post.
 
@@ -20,7 +20,7 @@ Because of this, we added 3 extra sections to the page:
 
 We also changed the name of the page to more closely match with key search terms.
 
-Keyword research found that 'How to become a teacher' had a much higher average search volume than 'Steps to become a teacher'.
+Keyword research found that How to become a teacher had a much higher average search volume than Steps to become a teacher.
 
 ## How we worked
 
