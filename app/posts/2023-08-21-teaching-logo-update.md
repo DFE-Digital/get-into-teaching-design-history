@@ -6,9 +6,9 @@ date: 2023-08-21
 
 ## What we did
 
-We are planning to update the design and layout of the header component. Initial investigations concluded that the current 'Teaching' logo, with its green background, clashed with the green menu CTA, hence causing usability issues and decreaasing the visibility of this component.
+We are planning to update the design and layout of the header component. Initial investigations concluded that the current 'Teaching' logo, with its green background, clashed with the green menu CTA, hence causing usability issues and decreasing the visibility of this component.
 
-Following various design iterations, we concluded that a blue background would work best across all screen sizes. The logo background colour has therefore been changed from green (#159964) to  blue (#2881be).
+Following various design iterations, we decided that a blue background would work best across all screen sizes. The logo background colour has therefore been changed from green (#159964) to  blue (#2881be).
 
 ## What we'll do next
 
