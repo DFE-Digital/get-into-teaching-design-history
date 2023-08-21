@@ -1,5 +1,5 @@
 ---
-title: Updated the background colour of the 'Teaching' logo
+title: 'Teaching' logo background colour update
 description: Improving website usability, especially on mobile, where the green menu CTA could clash with the green logo.
 date: 2023-08-21
 ---
