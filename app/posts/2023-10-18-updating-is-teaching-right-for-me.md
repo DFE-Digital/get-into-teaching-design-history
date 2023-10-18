@@ -33,9 +33,9 @@ We will monitor the performance of the page and test the page with users. We wil
 {{ appScreenshots({
   items: [{
       text: "Old Is teaching right for me page content",
-      img: { src: "/update-is-teaching-right-for-me/01-updating-is-teaching-right-for-me.jpg" }
+      img: { src: "01-updating-is-teaching-right-for-me.jpg" }
     }, {
       text: "New Is teaching right for me page content",
-      img: { src: "/update-is-teaching-right-for-me/02-updating-is-teaching-right-for-me.jpg" }
+      img: { src: "02-updating-is-teaching-right-for-me.jpg" }
     }]
 }) }}
