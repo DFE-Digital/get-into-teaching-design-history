@@ -1,6 +1,6 @@
 ---
 title: Update promo blocks
-description: The footer featured duplicated links from the primary navigation and was failing various accessibility checks.
+description: As a result of the recent brand colours update, we had to restyle a number of promo banners in order to fix various colour contrast issues.
 date: 2024-01-26
 ---
 
