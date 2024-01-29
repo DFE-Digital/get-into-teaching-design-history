@@ -6,28 +6,19 @@ date: 2024-01-29
 
 ## Why did we do this work?
 
-From user research, we identified that we should make it easier for users to find content that they needed at the early stage of a journey into teaching.
-
-To address this, as part of navigation improvements to the site, we decided to change the existing ‘Is teaching right for me’ content page into a full category page.
-
-This makes it easier to immediately see the content pages in this section and creates a clear home for additional content as we build out the site in the future.
+The Department for Education (DfE) launched a new advertising and marketing campaign in Jan 2024. The campaign focuses on how a career in teaching not only allows you to make a difference to the lives of others but it also gives you the opportunity to grow. Key themes the campaign encompasses are around career and pay progression, and continuous personal development (CPD). We wanted to update the messaging on the website and also look at areas where we could create new content to reflect this.
 
 ## Updating the content
 
-To make it easier for users to see the content pages within this section, we created a new category page.
+We added messaging to align with the campaign into: 
 
-We also: 
-
-* moved the salaries and benefits page into this section and updated the URL to teacher pay and benefits, which matches the page title and supports SEO
-* moved the teachers' pension scheme page into this section
-* moved internships and get school experience into the ‘Is teaching right for me’ category
-* moved career changers page into the ‘Is teaching right for me’ category
-* moved the orphan 'teach in further education' and 'become an early years teacher' pages into this section
-
+* our service proposition 
+* the introduction text on some of our category pages 
+* other pages where relevant 
 
 ## Future considerations
 
-We will monitor the performance of the page and test the page with users. We will also build out the content with a new page on job prospects of teaching.
+We will continue to develop content to tie in with the campaign, including the themes of career progression and CPD, to inspire people to get into teaching. And we will look to create a new section on the website for it to sit, making it easily accessible.
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
