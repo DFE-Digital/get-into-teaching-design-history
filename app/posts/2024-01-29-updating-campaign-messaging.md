@@ -32,7 +32,7 @@ We will continue to develop content to tie in with the campaign, including the t
 {{ appScreenshots({
   items: [{
       text: "Updated homepage messaging",
-      img: { src: "01-homepage-campaign-messaging.png.jpg" }
+      img: { src: "01-homepage-campaign-messaging.jpg" }
     }, {
       text: "Updated steps to become a teacher",
       img: { src: "02-updated-steps-to-become-teacher.jpg" }
