@@ -22,7 +22,7 @@ And we updated language used around salaries to ensure it’s consistent with th
 
  * From our user research we know that career progression is a key consideration for people who are thinking about a career in teaching. We worked with teacher training advisers and policy teams to create a new content page, a Q&A giving a realistic portrayal of career progression in teaching.  
 
- * We also created bespoke landing pages for the campaigns team to be able to drive traffic from organic, paid search and social to targeted pages focusing on the key themes of the campaign. 
+ * We also created bespoke landing pages for the campaigns team to be able to drive traffic from organic, paid search and social and partner content, to targeted pages focusing on the key themes of the campaign. 
 
 ## Future considerations
 
