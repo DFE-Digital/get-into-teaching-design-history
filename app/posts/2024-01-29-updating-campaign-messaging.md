@@ -16,7 +16,7 @@ We added messaging to align with the campaign into:
 * the introduction text on some of our category pages 
 * other pages where relevant 
 
-For example, we added some content around the benefits of getting qualified teacher status (QTS) to emphasise the ongoing support available as an early careers teacher (ECT). https://getintoteaching.education.gov.uk/steps-to-become-a-teacher. 
+For example, we added some content around the benefits of getting qualified teacher status (QTS) to emphasise the ongoing support available as an early careers teacher (ECT).
 
 And we updated language used around salaries to ensure it’s consistent with the language used in the campaign. The wording was updated to say, get a minimum starting salary of £30,000. 
 
