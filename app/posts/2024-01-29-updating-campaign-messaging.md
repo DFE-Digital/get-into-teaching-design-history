@@ -38,7 +38,7 @@ We will continue to develop content to tie in with the campaign, including the t
       img: { src: "02-updated-steps-to-become-teacher.jpg" }
     }, {
       text: "New promo banner on 'How to become a teacher' page",
-      img: { src: "04-update-promo-blocks.png" }
+      img: { src: "03-career-progression-Q&A.png" }
     }, {
       text: "New promo banner on 'How to become a teacher' page",
       img: { src: "04-update-promo-blocks.png" }
