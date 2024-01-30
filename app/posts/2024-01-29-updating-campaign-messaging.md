@@ -31,8 +31,8 @@ We will continue to develop content to tie in with the campaign, including the t
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
   items: [{
-      text: "Old Is teaching right for me page content",
-      img: { src: "01-updating-is-teaching-right-for-me.jpg" }
+      text: "Updated homepage messaging",
+      img: { src: "01-homepage-campaign-messaging.png.jpg" }
     }, {
       text: "New Is teaching right for me page content",
       img: { src: "02-updating-is-teaching-right-for-me.jpg" }
