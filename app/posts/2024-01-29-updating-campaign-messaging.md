@@ -36,5 +36,12 @@ We will continue to develop content to tie in with the campaign, including the t
     }, {
       text: "Updated steps to become a teacher",
       img: { src: "02-updated-steps-to-become-teacher.jpg" }
-    }]
-}) }}
+    }, {
+      text: "New promo banner on 'How to become a teacher' page",
+      img: { src: "04-update-promo-blocks.png" }
+    }, {
+      text: "New promo banner on 'How to become a teacher' page",
+      img: { src: "04-update-promo-blocks.png" }
+     }]
+
+     }) }}
