@@ -41,7 +41,7 @@ We will continue to develop content to tie in with the campaign, including the t
       img: { src: "03-career-progression-Q&A.png" }
     }, {
       text: "Campaign landing page",
-      img: { src: "04-update-promo-blocks.png" }
+      img: { src: "04-campaign-landing-page.png" }
      }]
 
      }) }}
