@@ -32,10 +32,10 @@ We will continue to develop content to tie in with the campaign, including the t
 {{ appScreenshots({
   items: [{
       text: "Updated homepage messaging",
-      img: { src: "01-homepage-campaign-messaging.jpg" }
+      img: { src: "01-homepage-campaign-messaging.png" }
     }, {
       text: "Updated steps to become a teacher",
-      img: { src: "02-updated-steps-to-become-teacher.jpg" }
+      img: { src: "02-updated-steps-to-become-teacher.png" }
     }, {
       text: "New promo banner on 'How to become a teacher' page",
       img: { src: "03-career-progression-Q&A.png" }
