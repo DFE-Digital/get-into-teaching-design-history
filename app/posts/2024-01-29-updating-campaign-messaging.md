@@ -6,7 +6,9 @@ date: 2024-01-29
 
 ## Why did we do this work?
 
-The Department for Education (DfE) launched a new advertising and marketing campaign in Jan 2024. The campaign focuses on how a career in teaching not only allows you to make a difference to the lives of others but also gives you the opportunity to grow. Key themes of the campaign are around career and pay progression, and continuous personal development (CPD). We wanted to update the messaging on the website and also look at areas where we could create new content to reflect this.
+The Department for Education (DfE) launched a new advertising and marketing campaign in Jan 2024. The campaign focuses on how a career in teaching not only allows you to make a difference to the lives of others but also gives you the opportunity to grow. 
+
+Key themes of the campaign are around career and pay progression, and continuous personal development (CPD). We wanted to update the messaging on the website and also look at areas where we could create new content to reflect this.
 
 ## Updating the content
 
