@@ -1,5 +1,5 @@
 ---
-title: Subject page tempalte
+title: Subject page template
 description: Developing a template for subject pages, so they all have a consistent look and feel.
 date: 2024-03-04
 ---
@@ -25,3 +25,11 @@ We know from previous user research that perspective teacher trainees want to kn
     }, 
     ]
 }) }}
+
+'Become a [subject name] teacher'
+
+You'll use the first section to sell the subject and describe what the subject includes.
+You'll also include a line about the bursaries and scholarships available. 
+
+'Tax-free bursaries x or scholarships of x are available for eligible trainee [subject] teachers.'
+
