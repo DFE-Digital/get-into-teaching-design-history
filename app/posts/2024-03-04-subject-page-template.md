@@ -17,14 +17,7 @@ We know from previous user research that perspective teacher trainees want to kn
 
 ## First section 
 
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-      text: "Subject page header",
-      img: { src: "subject-page-header.png" }
-    }, 
-    ]
-}) }}
+
 
 'Become a [subject name] teacher'
 
