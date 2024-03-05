@@ -28,7 +28,7 @@ We know from previous user research that perspective teacher trainees want to kn
 
 'Become a [subject name] teacher'
 
-You'll use the first section to sell the subject and describe what the subject includes.
+You'll use the first section to say briefly what this subject is and sell the subject/ why users should teach it.
 You'll also include a line about the bursaries and scholarships available. 
 
 'Tax-free bursaries x or scholarships of x are available for eligible trainee [subject] teachers.'
@@ -44,3 +44,4 @@ You'll also include a line about the bursaries and scholarships available.
     ]
 }) }}
 
+This section can be used for a quote or more information to introduce what teaching this subject includes.
