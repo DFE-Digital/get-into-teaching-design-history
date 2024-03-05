@@ -1,7 +1,7 @@
 ---
 title: Subject page template
 description: Developing a template for subject pages, so they all have a consistent look and feel.
-date: 2024-03-04
+date: 2024-03-05
 ---
 ## What we did
 We developed the scope of subject pages available on the website. There was already a subject page for maths, physics and engineers for physics but these were not hosted on the navigation. 
@@ -27,15 +27,6 @@ You'll also include a line about the bursaries and scholarships available.
 'Tax-free bursaries x or scholarships of x are available for eligible trainee [subject] teachers.'
 
 ## Second section
-
-{% from "screenshots/macro.njk" import appScreenshots with context %}
-{{ appScreenshots({
-  items: [{
-      text: "Pink text box for more information",
-      img: { src: "subject-page-2nd-section.png" }
-    }, 
-    ]
-}) }}
 
 This section can be used for a quote or more information to introduce what teaching this subject includes.
 This section can be used for a quote or more information to introduce what teaching this subject includes.
