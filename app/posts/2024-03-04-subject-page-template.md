@@ -17,6 +17,8 @@ We know from previous user research that perspective teacher trainees want to kn
 
 ## First section 
 
+
+
 'Become a [subject name] teacher'
 
 You'll use the first section to say briefly what this subject is and sell the subject/ why users should teach it.
@@ -36,3 +38,5 @@ You'll also include a line about the bursaries and scholarships available.
 }) }}
 
 This section can be used for a quote or more information to introduce what teaching this subject includes.
+This section can be used for a quote or more information to introduce what teaching this subject includes.
+
