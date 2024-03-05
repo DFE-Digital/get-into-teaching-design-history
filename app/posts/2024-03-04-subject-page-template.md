@@ -16,7 +16,7 @@ We know from previous user research that perspective teacher trainees want to kn
 - why they should choose this subject
 
 
-{% from "screenshots/macro.njk" import appScreenshots with context %} {{ appScreenshots({ items: [{ text: "Subject page header", img: { src: "subject-page-header.png" } }, { text: "Subject page funding", img: { src: "subject-page-funding.png" } }]
+{% from "screenshots/macro.njk" import appScreenshots with context %} {{ appScreenshots({ items: [{ text: "Subject page header", img: { src: "01-subject-page-header.png" } }, { text: "Subject page funding", img: { src: "02-subject-page-2nd-section.png" } }]
 
 }) }}
 
