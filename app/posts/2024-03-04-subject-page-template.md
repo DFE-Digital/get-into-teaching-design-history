@@ -15,6 +15,10 @@ We know from previous user research that perspective teacher trainees want to kn
 - the qualifications and funding for the subject
 - why they should choose this subject
 
+{% from "screenshots/macro.njk" import appScreenshots with context %} {{ appScreenshots({ items: [{ text: "Subject header", img: { src: "subject-page-header.png" } }, { text: "BuzzFeed landing page on mobile", img: { src: "02-buzzfeed-landing-page.png" } }]
+
+}) }}
+
 ## First section 
 
 'Become a [subject name] teacher'
