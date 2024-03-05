@@ -15,7 +15,7 @@ We know from previous user research that perspective teacher trainees want to kn
 - the qualifications and funding for the subject
 - why they should choose this subject
 
-## Subject page header 
+## First section 
 
 {% from "screenshots/macro.njk" import appScreenshots with context %}
 {{ appScreenshots({
@@ -32,4 +32,15 @@ You'll use the first section to sell the subject and describe what the subject i
 You'll also include a line about the bursaries and scholarships available. 
 
 'Tax-free bursaries x or scholarships of x are available for eligible trainee [subject] teachers.'
+
+## Second section
+
+{% from "screenshots/macro.njk" import appScreenshots with context %}
+{{ appScreenshots({
+  items: [{
+      text: "Pink text box for more information",
+      img: { src: "subject-page-2nd-section.png" }
+    }, 
+    ]
+}) }}
 
