@@ -15,12 +15,9 @@ We know from previous user research that perspective teacher trainees want to kn
 - the qualifications and funding for the subject
 - why they should choose this subject
 
-
-{% from "screenshots/macro.njk" import appScreenshots with context %} {{ appScreenshots({ items: [{ text: "Subject page header", img: { src: "01-subject-page-header.png" } }, { text: "Subject page funding", img: { src: "02-subject-page-2nd-section.png" } }]
-
-}) }}
-
 ## First section 
+
+![test](/images/subject-specific/01-subject-page-header.png)
 
 'Become a [subject name] teacher'
 
@@ -29,9 +26,13 @@ Also, it should include a line about the bursaries and scholarships available.
 
 ## Second section
 
+![test](/images/subject-specific/02-subject-page-2nd-section.png)
+
 This section can be used for a quote or more information to introduce what teaching this subject includes.
 
 ## Third section
+
+![test](/images/subject-specific/03-subject-page-curriculum.png)
 
 This section is focused on showing the themes of the curriculum for key stages 3 to 5. It's important to try and show how teachers would get pupils interested in themes. So using examples 'like creating a robot car', is a good insight for users.
 
@@ -41,13 +42,19 @@ The last line of this section should include a link to Oak Academy or a trusted 
 
 ## Fourth section
 
+![test](/images/subject-specific/04-subject-page-quote.png)
+
 This is a quote section. It would be best if this section could be used to emphasise what teaching in a classroom is like.
 
 ## Fifth section
 
+![test](/images/subject-specific/05-subject-page-qualifications.png)
+
 This section should be the same for all subjects except for the 3rd paragraph. Which will be taken from the data team to show a few subjects users have a degree in that have decided to teach this subject. Choose degrees that aren't normally associated with this subject, to show anyone can teach this subject.
 
 ## Sixth section
+
+![test](/images/subject-specific/06-subject-page-funding.png)
 
 The section should be the same except for the wording around the bursaries and scholarships, which will depend on the funding available for that specific subject.
 
